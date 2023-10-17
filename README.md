@@ -1,4 +1,4 @@
-# cpp-dependency-injection
+# cpp event
 ## demo
 ```bash
 mkdir build
